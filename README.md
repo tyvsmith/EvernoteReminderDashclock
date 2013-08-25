@@ -1,5 +1,8 @@
-Dashclock Extension for Evernote Reminders
+Evernote Reminders Dashclock Extension
 =================
+Evernote Dashclock Extension displays your Evernote reminders in the Dashclock Widget and provides one click access to view your reminders and note list. Control the sorting and display options in the main Evernote app.
+
+Having Evernote installed and logged in as well as Dashclock Widget is a prerequisite for using this extension.
 
 
 Author
