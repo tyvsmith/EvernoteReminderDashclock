@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Evernote Dashclock Extension</string>
+    <string name="extension_description">Displays your upcoming reminders. Settings are controlled in the Evernote application.</string>
+    <string name="extension_title">Evernote Reminders</string>
+
+    <plurals name="n_reminders">
+        <item quantity="one">One Reminder</item>
+        <item quantity="other">%d Reminders</item>
+    </plurals>
+
+</resources>
