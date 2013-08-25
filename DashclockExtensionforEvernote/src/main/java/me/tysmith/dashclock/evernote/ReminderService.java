@@ -16,8 +16,8 @@ public class ReminderService extends DashClockExtension {
 
     Log.d(LOGTAG, "onUpdateData() starting");
 
-    //Watch the Evernote Reminder Content URI for changes
-    addWatchContentUris(new String[]{EvernoteAPI.ReminderNotes.CONTENT_URI.toString()});
+    //Query when waking up
+    setUpdateWhenScreenOn(true);
 
     //Query reminders from Evernote ContentProvider
     List<Reminder> reminders = Reminder.getReminders(getContentResolver());
