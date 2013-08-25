@@ -4,6 +4,7 @@ Evernote Dashclock Extension displays your Evernote reminders in the Dashclock W
 
 Having Evernote installed and logged in as well as Dashclock Widget is a prerequisite for using this extension.
 
+Available on [Google Play](https://play.google.com/store/apps/details?id=me.tysmith.dashclock.evernote)
 
 Author
 ============
